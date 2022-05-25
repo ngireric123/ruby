@@ -1,10 +1,5 @@
 # TUTORIAL YOUTUBE LINK
 
-# https://www.youtube.com/watch?v=t_ispmWmdjY&t=5402s
-# https://www.youtube.com/watch?v=fmyvWz5TUWg
-# https://www.youtube.com/watch?v=B3Fbujmgo60
-
-
 # puts "    /|"
 # puts "   / |"
 # puts "  /  |"
@@ -146,6 +141,10 @@
 #                 METHODES OR FUNCTIONS
 #               ________________________
 
+
+# https://www.youtube.com/watch?v=t_ispmWmdjY&t=5402s
+# https://www.youtube.com/watch?v=fmyvWz5TUWg
+# https://www.youtube.com/watch?v=B3Fbujmgo60
 # def sayhi
 #     puts "Hello Unnnser"
 # end
